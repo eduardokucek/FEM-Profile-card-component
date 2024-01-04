@@ -1,0 +1,11 @@
+@media (min-width: 429px) {
+  #top-background {
+    top: -474px;
+    left: -280px;
+  }
+
+  #bottom-background {
+    bottom: -536px;
+    right: -280px;
+  }
+}
